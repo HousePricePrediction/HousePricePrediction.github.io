@@ -1,0 +1,13 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   overflow: auto;
+}
+body{
+   background-color: #0d1117;
+   color: #c9d1d9;
+}
+main{
+   background-color: aqua;
+}
